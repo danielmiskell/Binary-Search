@@ -1,2 +1,2 @@
 # Iterative-Binary-Search
-Iterative Binary Search  -  much faster than linear search.
+Binary Search - both Iterative and Recursive. 

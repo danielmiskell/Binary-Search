@@ -5,8 +5,8 @@ bool search(int value, int values[], int n)
         return false;
     }
     
-    int l = values[0];
-    int h = values[n-1];
+    int l = 0;
+    int h = n-1;
     
     return Bsearch( value, values[], n, l, h);
     
